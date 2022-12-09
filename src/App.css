@@ -1,4 +1,11 @@
-.head{
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
   text-align: center;
-  background-color: red;
+  background-color: #162312;
+  padding: 10px;
+  color: white;
 }
