@@ -4,8 +4,63 @@
   box-sizing: border-box;
 }
 .header{
+  min-height: 100px;
+  display: flex;
+  /* background-color:#f474b2; */
+  background-color:#959745;
+  justify-content: flex-start;
+  align-items: center;
+  column-gap: 10px;
+}
+.cardWrapper{
+  width: 23%;
+  /* border: 1px solid red; */
+  background-color: #cbb5e5;
+  border-radius: 10px;
+  transition: background-color 100ms;
+  
+}
+.cardWrapper:hover{
+  /* width: 24%; */
+  background-color: rgb(215, 240, 157);
+  /* height: 30%; */
+}
+.profilePicDiv{
+  width: 80%;
+  margin: 5px auto;
+}
+.profilePic{
+  width: 100%;
+  border-radius: 50%;
+  background-color: white;
+}
+.username{
+text-align: center;
+font-size: 22px;
+font-weight: 500;
+padding: 4px 0px;
+}
+.userInfo{
   text-align: center;
-  background-color: #162312;
+  font-size: 18px;
+  padding: 4px 0px 10px;
+
+}
+.childrenWrapper{
+  display: flex;
+  justify-content: space-around;
+}
+.sectionWrapper{
   padding: 10px;
-  color: white;
+}
+.sectionHeading{
+  /* border: 1px solid red; */
+  text-align-last: center;
+  border-radius: 10px;
+  width: 20%;
+  margin: 10px auto;
+  font-size: 22px;
+  line-height: 50px;
+  font-weight: 500;
+  background-color: rgb(165, 230, 140);
 }
