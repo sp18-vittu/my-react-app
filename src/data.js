@@ -12,13 +12,13 @@ const developerData = [{
 
 },
 {
-    fullname: "Sumekh Saurabh",
+    fullname: "Ujjawal Shrivastav",
     source: "/assets/images/profile2.jpg",
-    aboutme: "UI/UX Designer",
+    aboutme: "Frontend Engineer",
     customClass: "userInfo"
 },
 {
-    fullname: "Abhishek Srivastav",
+    fullname: "Arpit Gupta",
     source: "/assets/images/profile3.jpg",
     aboutme: "FullStack Developer",
     customClass: "userInfo"
