@@ -28,26 +28,26 @@ const developerData = [{
 const clientData = [{
     fullname:"Facebook",
           source:"/assets/images/facebook.svg",
-          aboutme:"Frontend Engineer",
+        //   aboutme:"Frontend Engineer",
           customClass:"userInfo"
 },
 {
     fullname:"Amazon",
           source:"/assets/images/amazon.svg",
-          aboutme:"Frontend Engineer",
+        //   aboutme:"Frontend Engineer",
           customClass:"userInfo"
 
 },
 {
     fullname:"Microsoft",
           source:"/assets/images/microsoft.png",
-          aboutme:"Frontend Engineer",
+        //   aboutme:"Frontend Engineer",
           customClass:"userInfo"
 },
 {
     fullname:"Google",
           source:"/assets/images/google.svg",
-          aboutme:"Frontend Engineer",
+        //   aboutme:"Frontend Engineer",
           customClass:"userInfo"
 
 
